@@ -21,4 +21,4 @@ Repositori ini menggunakan **Git Submodule** untuk mengelola tiga komponen utama
 Karena proyek ini menggunakan submodule, pastikan untuk meng-clone dengan perintah berikut:
 
 ```bash
-git clone --recurse-submodules https://github.com/username/tb1-senada-platform.git
+git clone --recurse-submodules https://github.com/agunglaksonoputra/senada-platform.git
