@@ -1,3 +1,3 @@
-[submodule "mobile"]
-	path = mobile
+[submodule "mobile-app"]
+	path = mobile-app
 	url = https://github.com/agunglaksonoputra/senada-project.git
