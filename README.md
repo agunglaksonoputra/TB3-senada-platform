@@ -11,7 +11,7 @@ Repositori ini menggunakan **Git Submodule** untuk mengelola tiga komponen utama
 | Modul       | Path Lokal     | Deskripsi                                |
 |-------------|----------------|-------------------------------------------|
 | Mobile App  | `mobile-app/`      | Aplikasi mobile (Flutter).  |
-| Backend API | `api/`         | Layanan backend/API (Node JS dan Express JS).  |
+| Backend API | `backend-api/`         | Layanan backend/API (Node JS dan Express JS).  |
 | Dashboard   | `dashboard/`   | Dashboard admin berbasis web.            |
 
 ---
